@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  * Created by k.diakonidze on 6/22/2015.
+aeeeeeeeee fiu fiu
  */
 public class Devises implements Serializable {
 
