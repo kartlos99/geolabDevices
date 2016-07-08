@@ -20,7 +20,7 @@ public class Devises implements Serializable {
         this.imig = imig;
         this.count = count;
     }
-
+// ar miaqcio yuradgeba am komentars
     public String getComent() {
         return coment;
     }
